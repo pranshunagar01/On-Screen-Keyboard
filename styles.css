@@ -1,0 +1,56 @@
+body{
+  font-family: 'Amatic SC', cursive;
+}
+.textbox{
+  background-color: yellow;
+  padding-left: 450px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.keyboard{
+  padding-top: 50px;
+  padding-left: 380px;
+  padding-bottom: 50px;
+}
+button{
+  margin:5px;
+  padding:20px 25px 20px 25px;
+  font-size: 1.5rem;
+  border-radius: 15px;
+  text-transform: uppercase;
+  box-shadow: 10px 10px 20px grey;
+  border: none;
+  text-shadow: 1px 1px grey;
+}
+.text{
+  background-color: white;
+  width: 600px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px grey;
+  padding-top: 5px;
+  padding-left: 20px;
+  font-size: 1.3rem;
+  padding-bottom: 5px;
+  padding-right: 20px;
+}
+.mid-row{
+  margin-left: 25px;
+}
+.last-row{
+  margin-left: 50px;
+}
+h1{
+  margin-left: 180px;
+  font-size: 2.5rem;
+}
+p{
+  width: 500px;
+}
+.space button{
+  width: 400px;
+  margin-left: 100px;
+}
+.pressed{
+  background-color: grey;
+  size=110%;
+}
